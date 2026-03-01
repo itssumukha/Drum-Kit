@@ -2,6 +2,9 @@
 
 A simple, interactive browser-based drum kit that lets you play drum sounds using your keyboard or by clicking the on-screen buttons.
 
+# Access Website on 
+https://minidrumkitgame.netlify.app/
+
 ## 📁 Project Structure
 ```
 drum-kit/
