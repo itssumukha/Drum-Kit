@@ -54,7 +54,6 @@ open index.html
 
 ## 📌 Planned Features
 
-- [ ] Launch the live site
 - [ ] Button press animations
 - [ ] Visual highlight on key press
 - [ ] Mobile touch support
