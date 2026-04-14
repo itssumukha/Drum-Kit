@@ -44,6 +44,20 @@ footer {
   background-image: url('./images/tom4.png');
 }
 
+.linkedin {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+
+footer{
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+}
+
 .set {
   margin: 10% auto;
 }
